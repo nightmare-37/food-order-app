@@ -1,0 +1,21 @@
+.meals {
+    max-width: 60rem;
+    width: 90%;
+    margin: 2rem auto;
+  }
+
+  .MealsLoading {
+    text-align: center;
+    color: white;
+  }
+
+  .MealsError {
+    text-align: center;
+    color: red;
+  }
+
+  .meals ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
